@@ -151,7 +151,7 @@
 //     console.log("1も2もtrueになります");
 // }
 
-// ||は左側がfalseなら右側に返す（左側がtrueなら左側を返す）
+// ||は左側がfalseなら右側を返す（左側がtrueなら左側を返す）
 // const num = 100;
 // const fee = num || "金額未設定です";
 // console.log(fee);
@@ -160,3 +160,4 @@
 // const num2 = 100;
 // const fee2 = num2 && "何か設定されました";
 // console.log(fee2);
+
